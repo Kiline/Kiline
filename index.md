@@ -8,7 +8,7 @@
         <title>>逐鹿炭火燒肉</title><body style="color:white;">
     </head>
     <body>
-        <h5><font SIZE="5">逐鹿炭火燒肉</h5><p></p>
+        <h1>逐鹿炭火燒肉</h1><p></p>
     <img src="image/01.jpg" width="450" height="300"><p></p>
                                 <ul class="nav1">
     <li class="li1"><a href="01.html"><b><font SIZE="3">關於我們</b></a></li></font>
